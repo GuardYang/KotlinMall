@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_address.png",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_address.png"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order.png",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order.png"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_share.png",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_share.png"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_scan.png",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_scan.png"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_special.png",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_special.png"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_me_header.png",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\bg_me_header.png"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_setting.png",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order_completed.png",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_completed.png"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order_wait_confirm.png",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_wait_confirm.png"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order_wait_pay.png",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_wait_pay.png"
+    }
+]

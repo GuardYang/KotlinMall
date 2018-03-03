@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ren.qinc.numberbutton:numberbutton-0.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/aad7199ad4cf31c59f147dd685a6f7a401fb0e4b/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/aad7199ad4cf31c59f147dd685a6f7a401fb0e4b/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ren.qinc.numberbutton/numberbutton/0.0.1/609677259816d1d1c36c1a1cd266517d94fa6961/numberbutton-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

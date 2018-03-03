@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_state_empty.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_state_empty.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_address.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\OrderCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_edit_address.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_home_discount_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\layout\\layout_home_discount_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\grid_view_item_album_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\64a3836a787797631ef32720eefe3911f65d7361\\output\\res\\layout\\grid_view_item_album_select.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\64a3836a787797631ef32720eefe3911f65d7361\\output\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6f0b945e6ca4afa61caba02134a573d4aea86b18\\output\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\crop__activity_crop.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7ced6dbb17c5cce8fad7c321592c92afc95de0c2\\output\\res\\layout\\crop__activity_crop.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sku_view.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_sku_view.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_second_category_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_second_category_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\64a3836a787797631ef32720eefe3911f65d7361\\output\\res\\layout\\activity_album_select.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_goods_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_goods_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\grid_view_item_image_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\64a3836a787797631ef32720eefe3911f65d7361\\output\\res\\layout\\grid_view_item_image_select.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert_vertical.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e72d1e6f020de0b15c9e51d7cc78fe267c4fc4b\\output\\res\\layout\\layout_alertview_alert_vertical.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\view_normal_refresh_footer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d800e2b3f2ad26d07761cccb5fb3c6c4841e1e87\\output\\res\\layout\\view_normal_refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cash_register.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\PaySDK\\build\\intermediates\\bundles\\default\\res\\layout\\activity_cash_register.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_topic_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\layout\\layout_topic_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_cart_goods_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_cart_goods_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\shifting_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9305133b37bcc0373a2370805ad5a6e8f108c545\\output\\res\\layout\\shifting_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a319ce508dd4b2c87b93a89a85e83959a92e47b7\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_header_bar.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_header_bar.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\fixed_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9305133b37bcc0373a2370805ad5a6e8f108c545\\output\\res\\layout\\fixed_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_goods_detail_tab_two.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_goods_detail_tab_two.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_pwd.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\UserCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_forget_pwd.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\OrderCenter\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6f0b945e6ca4afa61caba02134a573d4aea86b18\\output\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_search_history_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_search_history_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_order_goods_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\OrderCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_order_goods_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goods.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_goods.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\view_refresh_header_mooc_style.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d800e2b3f2ad26d07761cccb5fb3c6c4841e1e87\\output\\res\\layout\\view_refresh_header_mooc_style.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cart.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_navigation_bar_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9305133b37bcc0373a2370805ad5a6e8f108c545\\output\\res\\layout\\bottom_navigation_bar_container.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\UserCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goods_detail.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_goods_detail.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_detail.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\OrderCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\view_refresh_header_meituan.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d800e2b3f2ad26d07761cccb5fb3c6c4841e1e87\\output\\res\\layout\\view_refresh_header_meituan.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_actionsheet.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e72d1e6f020de0b15c9e51d7cc78fe267c4fc4b\\output\\res\\layout\\layout_alertview_actionsheet.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_message_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\MessageCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_message_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_state_error.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_state_error.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\OrderCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\view_refresh_header_stickiness.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d800e2b3f2ad26d07761cccb5fb3c6c4841e1e87\\output\\res\\layout\\view_refresh_header_stickiness.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\aad7199ad4cf31c59f147dd685a6f7a401fb0e4b\\output\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_state_loading.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_state_loading.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_order_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\OrderCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_order_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_address_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\OrderCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_address_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\UserCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_category.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_label_textview.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\layout_label_textview.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sku_pop.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_sku_pop.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\include_alertheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e72d1e6f020de0b15c9e51d7cc78fe267c4fc4b\\output\\res\\layout\\include_alertheader.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_top_category_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_top_category_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e72d1e6f020de0b15c9e51d7cc78fe267c4fc4b\\output\\res\\layout\\layout_alertview_alert.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\64a3836a787797631ef32720eefe3911f65d7361\\output\\res\\layout\\activity_image_select.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e72d1e6f020de0b15c9e51d7cc78fe267c4fc4b\\output\\res\\layout\\layout_alertview_alert_horizontal.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sku_item.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_sku_item.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\item_alertbutton.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e72d1e6f020de0b15c9e51d7cc78fe267c4fc4b\\output\\res\\layout\\item_alertbutton.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6e72d1e6f020de0b15c9e51d7cc78fe267c4fc4b\\output\\res\\layout\\layout_alertview.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\layout_news_flipper.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\MessageCenter\\build\\intermediates\\bundles\\default\\res\\layout\\layout_news_flipper.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\view_refresh_header_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d800e2b3f2ad26d07761cccb5fb3c6c4841e1e87\\output\\res\\layout\\view_refresh_header_normal.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\MessageCenter\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\crop__layout_done_cancel.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7ced6dbb17c5cce8fad7c321592c92afc95de0c2\\output\\res\\layout\\crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\UserCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\373569138e364e618941172fd19b0d30e2f5852f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_confirm.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\OrderCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_order_confirm.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\OrderCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reset_pwd.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\UserCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_reset_pwd.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_goods.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\activity_search_goods.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_goods_detail_tab_one.xml",
+        "source": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\GoodsCenter\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_goods_detail_tab_one.xml"
+    },
+    {
+        "merged": "D:\\androidSpace\\project\\y2fnys\\App\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9d8f1616bc7cc0da92d7ac23f887739baf253dc6\\output\\res\\layout\\design_navigation_menu_item.xml"
+    }
+]

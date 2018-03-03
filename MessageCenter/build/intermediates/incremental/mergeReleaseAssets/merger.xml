@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\androidSpace\project\y2fnys\App\KotlinMall\MessageCenter\src\main\assets"/><source path="D:\androidSpace\project\y2fnys\App\KotlinMall\MessageCenter\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\androidSpace\project\y2fnys\App\KotlinMall\MessageCenter\src\release\assets"/></dataSet></merger>
